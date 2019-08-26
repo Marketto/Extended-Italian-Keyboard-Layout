@@ -1,4 +1,5 @@
 # Extended Italian Keyboard Layout
+[![LICENSE](https://img.shields.io/badge/licese-MIT-gold.svg)](https://github.com/Marketto/Extended-Italian-Keyboard-Layout/blob/master/LICENSE)
 [![Blog](https://img.shields.io/badge/blog-marketto-blue.svg)](http://blog.marketto.it)
 [![Buy me a coffee](https://img.shields.io/badge/Ko--fi-donate-blueviolet)](https://ko-fi.com/marketto)
 ## Caratteri aggiunti
